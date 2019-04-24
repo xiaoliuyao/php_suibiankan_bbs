@@ -1,0 +1,18 @@
+
+.wrap {
+	padding: 10px;
+}
+.wrap .title {
+	padding: 10px 0;
+	text-align: center;
+	border: 1px dashed #f1f1f1;
+}
+.head-imgs {
+	overflow: hidden;
+}
+.head-imgs img {
+	width: 100px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	vertical-align: bottom;
+}
